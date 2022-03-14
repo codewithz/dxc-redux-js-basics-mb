@@ -11,4 +11,4 @@ const wrapInDiv = str => `<div>${str}</div>`
 
 const result = wrapInDiv(trim(lowerCase(input)));
 
-console.log(result)
+console.log(result) 
